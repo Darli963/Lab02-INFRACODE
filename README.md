@@ -11,7 +11,6 @@ Infraestructura con **Terraform** y el provider `kreuzwerker/docker` que desplie
 - Terraform  
 
 ## dev 
-
 Grafana → http://localhost:5000
 App1 → http://localhost:5001
 App2 → http://localhost:5002
